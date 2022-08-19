@@ -1,16 +1,16 @@
 .card {
   display: inline-block;
   text-align: center;
-  width: 2em;
-  font-size: 1em;
-  box-shadow: 0 4px 8px 0 rgba(234, 4, 219, 0.2);
+  width: 2.5em;
+  font-size: 1.5em;
+  box-shadow: 0 4px 8px 0 rgba(238, 5, 222, 0.751);
   margin: 1em;
   user-select: none;
  }
 
  .activeCard {
-  color: rgb(242, 140, 237);
-  background: rgb(149, 204, 235);
+  color: rgb(231, 103, 224);
+  background: rgb(168, 211, 236);
  }
  .App {
   text-align: center;
